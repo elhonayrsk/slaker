@@ -1,0 +1,9 @@
+[Settings]
+ApplicationToStart = 1.exe
+
+[Data]
+FS = 95232
+HV = 339522F96984BB4EE60C2774BED11A76
+DA = 2025-01-08
+TI = 21:12
+
